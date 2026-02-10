@@ -1,5 +1,5 @@
 ## Hi there, I'm Vladislav 👋
-## I'm a QA engineer
+**I'm a QA engineer**
 
 ## 🚀 About me
 I started in frontend, but realized I reviewing other people’s code and analyzing implementation details more than building features myself
@@ -12,5 +12,5 @@ I started in frontend, but realized I reviewing other people’s code and analyz
 - Basic knowledge: HTML, CSS, JavaScript
 
 ## 📫 Contact
-TG: https://t.me/Vl_ESe
-Location: Almaty  
+- TG: https://t.me/Vl_ESe
+- Location: Almaty  
