@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Vladislav 👋
+## I'm a QA engineer
 
-<!--
-**SergievP/SergievP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
+I started in frontend, but realized I reviewing other people’s code and analyzing implementation details more than building features myself
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Testing: Manual testing, Test Design (EP, BVA), Regression
+- API: Postman, Apidoc
+- Databases: PostgreSQL (SELECT, JOIN)
+- Tools: DevTools, Charles, Git, Android Studio
+- Basic knowledge: HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+TG: https://t.me/Vl_ESe
+Location: Almaty  
