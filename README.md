@@ -6,7 +6,7 @@ I started in frontend, but realized I reviewing other people’s code and analyz
 
 ## 🛠 Tech Stack
 - Testing: Manual testing, Test Design (EP, BVA), Regression
-- API: Postman, Apidoc
+- API: Postman, Swagger
 - Databases: PostgreSQL (SELECT, JOIN)
 - Tools: DevTools, Charles, Git, Android Studio
 - Basic knowledge: HTML, CSS, JavaScript
